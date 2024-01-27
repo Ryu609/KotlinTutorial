@@ -1,3 +1,4 @@
+/*
 import kotlinx.coroutines.*
 import kotlin.system.measureTimeMillis
 
@@ -24,4 +25,4 @@ suspend fun getMessageOne(): String {
 suspend fun getMessageTwo(): String {
     delay(1000L)    // pretend to do some work
     return "World!"
-}
+}*/

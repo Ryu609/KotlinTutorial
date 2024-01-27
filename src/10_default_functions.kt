@@ -2,7 +2,7 @@
 /*
 *   Default Functions
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     var result = findVolume(2, 3)
     print(result)
@@ -11,4 +11,4 @@ fun main(args: Array<String>) {
 fun findVolume(length: Int, breadth: Int, height: Int = 10): Int {
 
     return length * breadth * height
-}
+}*/

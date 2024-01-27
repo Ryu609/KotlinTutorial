@@ -2,7 +2,7 @@
 /*
 *   1. Object Declaration
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     CustomersData.count = 98
     CustomersData.typeOfCustomers()
@@ -34,4 +34,4 @@ object CustomersData: MySuperClass() {      // Object Declaration
         super.myMethod(str)
         println("object Customer Data: $str")
     }
-}
+}*/

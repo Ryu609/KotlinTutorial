@@ -7,7 +7,7 @@
  * to each element in the original collection
  * */
 
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     val myNumbers: List<Int> = listOf(2, 3, 4, 6, 23, 90)
 
@@ -27,8 +27,8 @@ fun main(args: Array<String>) {
     for (name in names) {
         println(name)
     }
-}
+}*/
 
-class Pperson(var age: Int, var name: String) {
+/*class Pperson(var age: Int, var name: String) {
     // Some other code..
-}
+}*/

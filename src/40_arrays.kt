@@ -2,7 +2,7 @@
 /*
 *   1. Arrays
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     // Elements :   32  0   0   54  0
     // Index    :   0   1   2   3   4
@@ -21,4 +21,4 @@ fun main(args: Array<String>) {
     for (index in 0..myArray.size - 1) {
         println(myArray[index])
     }
-}
+}*/

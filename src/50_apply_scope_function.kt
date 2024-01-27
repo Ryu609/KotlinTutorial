@@ -1,3 +1,4 @@
+/*
 class Person {
     var name: String = ""
     var age: Int = 0
@@ -5,9 +6,11 @@ class Person {
 
 fun main() {
 
-    /** Scope Function: 'apply'
+    */
+/** Scope Function: 'apply'
     Property 1: Refer to context object by using 'this'
-    Property 2: The return value is the 'context object'  */
+    Property 2: The return value is the 'context object'  *//*
+
 
     val person = Person().apply {
         name = "Sriyank Siddhartha"
@@ -24,4 +27,4 @@ fun main() {
         it.name = "Shreks from Smartherd"
         println("New name: ${it.name}")     // prints   New name: Shreks from Smartherd
     }
-}
+}*/

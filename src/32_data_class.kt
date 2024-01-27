@@ -2,7 +2,7 @@
 /*
 *   Data Class
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     var user1 = User("Sam", 10)
 
@@ -19,4 +19,4 @@ fun main(args: Array<String>) {
     println(newUser)
 }
 
-data class User(var name: String, var id: Int)
+data class User(var name: String, var id: Int)*/

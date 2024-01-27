@@ -1,5 +1,5 @@
 
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     // WAP to find out length of name
     val name: String? = "Steve"     // change it to null and see the effect in output
@@ -33,4 +33,4 @@ fun main(args: Array<String>) {
     // Throws NullPointerException if the value is found to be NULL
 
     println("The length of name is ${name!!.length}")
-}
+}*/

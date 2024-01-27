@@ -3,7 +3,7 @@
 /*
 *   1. 'it' keyword
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     val program = Programs()
     program.reverseAndDisplay("hello", { it.reversed() })
@@ -16,4 +16,4 @@ class Programs {
         val result = myFunc(str)    // it.reversed() ==> str.reversed() ==> "hello".reversed() = "olleh"
         println(result)
     }
-}
+}*/

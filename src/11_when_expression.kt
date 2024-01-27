@@ -3,7 +3,7 @@
 /*
 * WHEN as Expression
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     val x = 100
 
@@ -18,4 +18,4 @@ fun main(args: Array<String>) {
     }
 
     println(str)
-}
+}*/

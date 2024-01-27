@@ -5,7 +5,7 @@
 *   1. Lambda Expression
 *   2. Higher-Order Function
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     val program = Program()
 
@@ -47,4 +47,4 @@ class Program {
 
 interface MyInterface {
     fun execute(sum: Int)
-}
+}*/

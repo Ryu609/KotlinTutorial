@@ -2,7 +2,7 @@
 /*
 * IF as Expression
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     val a = 2
 
@@ -17,4 +17,4 @@ fun main(args: Array<String>) {
                         }
 
     println(maxValue)
-}
+}*/

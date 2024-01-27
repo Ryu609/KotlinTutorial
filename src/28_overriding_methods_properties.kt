@@ -3,7 +3,7 @@
 *   1. Method Overriding
 *   2. Property Overriding
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     var dog = MyDog()
 
@@ -35,4 +35,4 @@ class MyDog : MyAnimal() {
         super<MyAnimal>.eat()
         println("Dog is eating")
     }
-}
+}*/

@@ -2,7 +2,7 @@
 /*
 *   Inheritance with Primary and Secondary Constructors
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     var dog = TheDog("Black", "Pug")
 }
@@ -26,4 +26,4 @@ class TheDog : TheAnimal {    // Sub class / Child class / Derived class
 
         println("From Dog: $color and $breed")
     }
-}
+}*/

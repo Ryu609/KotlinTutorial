@@ -2,7 +2,7 @@
 /*
 *   1. Closures
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     val program = TheProgram()
 
@@ -19,4 +19,4 @@ class TheProgram {
 
         action(a, b)
     }
-}
+}*/

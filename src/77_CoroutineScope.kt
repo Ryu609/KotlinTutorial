@@ -1,3 +1,4 @@
+/*
 import kotlinx.coroutines.*
 
 fun main() = runBlocking {
@@ -17,4 +18,4 @@ fun main() = runBlocking {
     }
 
     println("... some other code...")
-}
+}*/

@@ -3,7 +3,7 @@
 * Explore Data Types in Kotlin
 * */
 
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     var name: String
     name = "Kevin"
@@ -17,5 +17,5 @@ fun main(args: Array<String>) {
     var gender: Char = 'M'
 
     print(marks)
-}
+}*/
 

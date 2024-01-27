@@ -3,7 +3,7 @@
 /*
 *   FUNCTIONS as Expressions
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     var largeValue = max(4, 6)
 
@@ -17,4 +17,4 @@ fun max(a: Int, b: Int): Int
                     } else {
                         println("$b is greater")
                         b
-                    }
+                    }*/

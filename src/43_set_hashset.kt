@@ -2,7 +2,7 @@
 /*
 *   1. Set and HashSet
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     // "Set" contains unique elements
     // "HashSet" also contains unique elements but sequence is not guaranteed in output
@@ -16,4 +16,4 @@ fun main(args: Array<String>) {
     for (element in mySet) {
         println(element)
     }
-}
+}*/

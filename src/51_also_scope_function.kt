@@ -1,10 +1,13 @@
 
 
+/*
 fun main() {
 
-    /** Scope Function: 'also'              'ALSO PERFORM THE FOLLOWING EXTRA OPERATION'
+    */
+/** Scope Function: 'also'              'ALSO PERFORM THE FOLLOWING EXTRA OPERATION'
     Property 1: Refer to context object by using 'it'
-    Property 2: The return value is the 'context object'  */
+    Property 2: The return value is the 'context object'  *//*
+
 
     // Initialise numbersList 
     val numbersList: MutableList<Int> = mutableListOf(1, 2, 3)
@@ -23,4 +26,4 @@ fun main() {
     // duplicateNumbers will be same as numbersList
     println("Original numbers: $numbersList")
     println("Duplicate numbers: $duplicateNumbers")
-}
+}*/

@@ -2,6 +2,7 @@
 /*
 *   Abstract Class
 * */
+/*
 fun main(args: Array<String>) {
 
 //    var person = MyPerson()   // Not allowed. You cannot create instance of abstract class
@@ -31,4 +32,4 @@ class Indian: MyPerson() {
     override fun eat() {
         // Our own code
     }
-}
+}*/

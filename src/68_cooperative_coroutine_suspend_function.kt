@@ -1,4 +1,4 @@
-import kotlinx.coroutines.*
+/*import kotlinx.coroutines.*
 
 fun main() = runBlocking {    // Creates a blocking coroutine that executes in current thread (main)
 
@@ -15,4 +15,4 @@ fun main() = runBlocking {    // Creates a blocking coroutine that executes in c
     job.cancelAndJoin()
 
     println("\nMain program ends: ${Thread.currentThread().name}")    // main thread
-}
+}*/

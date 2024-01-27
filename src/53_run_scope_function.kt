@@ -1,4 +1,5 @@
 
+/*
 class Person {
     var name: String = "Sriyank Siddhartha"
     var age: Int = 26
@@ -6,9 +7,11 @@ class Person {
 
 fun main() {
 
-    /** Scope Function: 'run'
+    */
+/** Scope Function: 'run'
     Property 1: Refer to context object by using 'this'
-    Property 2: The return value is the 'lambda result'  */
+    Property 2: The return value is the 'lambda result'  *//*
+
 
     // 'run' is combination of 'with' and 'let'
     // If you want to operate on a Nullable object and avoid NullPointerException then use 'run'
@@ -23,4 +26,4 @@ fun main() {
     }
 
     println(bio)
-}
+}*/

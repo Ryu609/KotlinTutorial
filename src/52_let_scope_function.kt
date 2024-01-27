@@ -1,9 +1,12 @@
 
+/*
 fun main() {
 
-    /** Scope Function: 'let'
+    */
+/** Scope Function: 'let'
     Property 1: Refer to context object by using 'it'
-    Property 2: The return value is the 'lambda result'  */
+    Property 2: The return value is the 'lambda result'  *//*
+
 
     // Use 'let' function to avoid NullPointerException
 
@@ -17,4 +20,4 @@ fun main() {
     }
 
     println(stringLength)
-}
+}*/

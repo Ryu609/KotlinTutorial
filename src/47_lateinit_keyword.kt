@@ -1,6 +1,6 @@
 
 
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     val country = Country()
 
@@ -18,7 +18,7 @@ class Country {
         name = "USA"
         println("The name of country is $name")
     }
-}
+}*/
 
 // lateinit used only with mutable data type [ var ]
 // lateinit used only with non-nullable data type

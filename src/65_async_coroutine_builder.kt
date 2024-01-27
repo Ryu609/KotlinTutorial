@@ -1,3 +1,4 @@
+/*
 import kotlinx.coroutines.*
 
 
@@ -15,4 +16,4 @@ fun main() = runBlocking {    // Creates a blocking coroutine that executes in c
     val num: Int = deferredJob.await()  // main thread: wait for coroutine to finish and return data 
 
     println("Main program ends: ${Thread.currentThread().name}")    // main thread
-}
+}*/

@@ -2,7 +2,7 @@
 /*
 *   1. Map and HashMap
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     // Map Tutorial: Key-Value pair
 //    var myMap = HashMap<Int, String>()      // Mutable, READ and WRITE both, No Fixed Size
@@ -18,4 +18,4 @@ fun main(args: Array<String>) {
     for (key in myMap.keys) {
         println("Element at $key = ${myMap[key]}")  // myMap.get(key)
     }
-}
+}*/

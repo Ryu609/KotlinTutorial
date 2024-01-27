@@ -3,7 +3,7 @@
 /*
 *   CONTINUE Keyword and Labelled FOR Loop
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     for (i in 1..3) {
         if (i == 2)
@@ -20,4 +20,4 @@ fun main(args: Array<String>) {
             println("$i  $j")
         }
     }
-}
+}*/

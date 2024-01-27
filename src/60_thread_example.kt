@@ -1,3 +1,4 @@
+/*
 import kotlin.concurrent.thread
 
 fun main() {        // Executes in main thread
@@ -11,4 +12,4 @@ fun main() {        // Executes in main thread
     }
 
     println("Main program ends: ${Thread.currentThread().name}")
-}
+}*/

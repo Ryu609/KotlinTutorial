@@ -3,7 +3,7 @@
 /*
 * DO WHILE Loop
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     var i = 0
 
@@ -24,4 +24,4 @@ fun main(args: Array<String>) {
         }
         j--
     } while (j >= 0)
-}
+}*/

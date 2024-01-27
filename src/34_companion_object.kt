@@ -2,7 +2,7 @@
 /*
 *   1. Companion Object
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     MyClass.count           // You can print it and check result
 
@@ -20,4 +20,4 @@ class MyClass {
             return "Indian"
         }
     }
-}
+}*/

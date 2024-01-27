@@ -3,7 +3,7 @@
 /*
 *   BREAK Keyword and Labelled FOR Loop
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     for (i in 0..4) {
         println(i)
@@ -22,4 +22,4 @@ fun main(args: Array<String>) {
                 break@myLoop
         }
     }
-}
+}*/

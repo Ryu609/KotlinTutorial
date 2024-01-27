@@ -3,6 +3,7 @@
 *   1. 'with' function
 *   2. 'apply' function
 * */
+/*
 fun main(args: Array<String>) {
 
     var person = Perrson()
@@ -29,4 +30,4 @@ class Perrson {
     fun startRun() {
         println("Now I am ready to run")
     }
-}
+}*/

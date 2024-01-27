@@ -1,4 +1,5 @@
 
+/*
 import kotlinx.coroutines.*
 
 
@@ -20,4 +21,4 @@ fun main() = runBlocking {        // Executes in main thread
 suspend fun mySuspendFunc(time: Long) {
     // code..
     delay(time)
-}
+}*/

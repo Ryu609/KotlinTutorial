@@ -2,7 +2,7 @@
 /**
  *  PREDICATES
  * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     val myNumbers = listOf(2, 3, 4, 6, 23, 90)
 
@@ -19,4 +19,4 @@ fun main(args: Array<String>) {
 
     val num = myNumbers.find(myPredicate)           // Returns the first number that matches the predicate
     println(num)
-}
+}*/

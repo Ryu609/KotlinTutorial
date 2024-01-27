@@ -2,6 +2,7 @@
 /*
 *   Extension Functions: EXAMPLE ONE
 * */
+/*
 fun main(args: Array<String>) {
 
     var student = Studentt()
@@ -19,4 +20,4 @@ class Studentt {         // OUR OWN CLASS
     fun hasPassed(marks: Int): Boolean {
         return marks > 40
     }
-}
+}*/

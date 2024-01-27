@@ -2,7 +2,7 @@
 /*
 *   Extension Functions: EXAMPLE TWO
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     var str1: String = "Hello "
     var str2: String = "World"
@@ -30,4 +30,4 @@ fun Int.greaterValue(other: Int): Int {
         return this
     else
         return other
-}
+}*/

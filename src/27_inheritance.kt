@@ -2,7 +2,7 @@
 /*
 *   Inheritance
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     var dog = Dog()
     dog.bread = "labra"
@@ -46,4 +46,4 @@ class Cat : Animal() {      // Sub class / Child class / Derived class
     fun meow() {
         println("Meow")
     }
-}
+}*/

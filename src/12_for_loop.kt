@@ -3,7 +3,7 @@
 /*
 * FOR Loop
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     for (i in 1..10) {
 
@@ -20,5 +20,5 @@ fun main(args: Array<String>) {
             println(i)
         }
     }
-}
+}*/
 

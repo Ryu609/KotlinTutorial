@@ -2,7 +2,7 @@
 /*
 *   Class, Primary Constructor, Secondary Constructor and Init Block
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     var student = Student("Steve", 10)
 
@@ -21,4 +21,4 @@ class Student(var name: String) {
         // The body of the secondary constructor is called after init block
         this.id = id
     }
-}
+}*/

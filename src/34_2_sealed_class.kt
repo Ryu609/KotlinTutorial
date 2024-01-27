@@ -1,5 +1,5 @@
 
-// Limitations of Enum class is overcome by sealed class. 
+/*// Limitations of Enum class is overcome by sealed class.
 enum class Color(val colorShade: String) {
     RED("light red"),
     GREEN("light green"),         // These hard-coded values cannot be changed. They are constants. 
@@ -40,4 +40,4 @@ fun checkShape(shape: Shape) {
         Shape.NotAShape -> println("No shape found")  // 'is' is not required for object (singleton)
         //  else -> "else case is not required as all case is covered above"
     }
-}
+}*/

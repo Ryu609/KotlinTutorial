@@ -1,3 +1,4 @@
+/*
 import kotlinx.coroutines.*
 
 
@@ -14,4 +15,4 @@ fun main() = runBlocking {        // Executes in main thread
         delay(2000)  // main thread: wait for coroutine to finish (practically not a right way to wait)
 
         println("Main program ends: ${Thread.currentThread().name}")    // main thread
-}
+}*/

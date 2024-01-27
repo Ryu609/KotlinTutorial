@@ -2,7 +2,7 @@
 /*
 *   INTERFACE
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     var myButton = MyButton()
     myButton.onTouch()
@@ -40,4 +40,4 @@ class MyButton: MyInterfaceListener, MySecondInterface {
     override fun onClick() {
         super.onTouch()
     }
-}
+}*/

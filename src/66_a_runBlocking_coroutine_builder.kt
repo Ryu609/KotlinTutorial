@@ -1,3 +1,4 @@
+/*
 import kotlinx.coroutines.*
 
 
@@ -19,4 +20,4 @@ fun main() = runBlocking {    // Creates a blocking coroutine that executes in c
 
 suspend fun myOwnSuspendingFunc() {
     delay(1000)     // do something
-}
+}*/

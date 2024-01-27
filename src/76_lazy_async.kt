@@ -1,4 +1,5 @@
 
+/*
 import kotlinx.coroutines.*
 
 fun main() = runBlocking {    // Creates a blocking coroutine that executes in current thread (main)
@@ -22,4 +23,4 @@ suspend fun getMessageTwo(): String {
     delay(1000L)    // pretend to do some work
     println("After working in getMessageTwo()")
     return "World!"
-}
+}*/

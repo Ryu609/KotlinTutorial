@@ -1,6 +1,6 @@
 
 
-val pi: Float by lazy {
+/*val pi: Float by lazy {
     3.14f
 }
 
@@ -15,7 +15,7 @@ fun main(args: Array<String>) {
     val area2 = pi * 9 * 9      // The value pi is loaded from cache memory
 
     println("Some more code....")
-}
+}*/
 
 
 // ‘lazy initialization’ was designed to prevent unnecessary initialization of objects.

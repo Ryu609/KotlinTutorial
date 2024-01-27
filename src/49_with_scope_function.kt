@@ -1,3 +1,4 @@
+/*
 class Person {
     var name: String = "Sriyank Siddhartha"
     var age: Int = 26
@@ -5,9 +6,11 @@ class Person {
 
 fun main() {
 
-    /** Scope Function: 'with'
+    */
+/** Scope Function: 'with'
         Property 1: Refer to context object by using 'this'
-        Property 2: The return value is the 'lambda result'  */
+        Property 2: The return value is the 'lambda result'  *//*
+
 
     val person = Person()
 
@@ -20,4 +23,4 @@ fun main() {
 
 //    println("Age after five years is $ageAfterFiveYears")
     println(bio)
-}
+}*/

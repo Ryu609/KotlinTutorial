@@ -2,7 +2,7 @@
 /*
 *   INFIX FUNCTIONS
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     val x: Int = 6
     val y: Int = 10
@@ -18,7 +18,7 @@ infix fun Int.findGreaterValue(other: Int): Int {       // INFIX and Extension F
         return this
     else
         return other
-}
+}*/
 
 /*
 *       1. All INFIX Functions are Extension functions

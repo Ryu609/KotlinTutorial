@@ -2,7 +2,7 @@
 /*
 *   1. List and ArrayList 
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     // Elements :
     // Index    :   0   1   2   3   4
@@ -22,4 +22,4 @@ fun main(args: Array<String>) {
     for (element in list) {             // Using individual elements (Objects)
         println(element)
     }
-}
+}*/

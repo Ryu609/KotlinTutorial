@@ -2,7 +2,7 @@
 /*
 * Explore String Interpolation in Kotlin
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
     var rect = Rectangle()
     rect.length = 5
@@ -16,4 +16,4 @@ class Rectangle {
 
     var length: Int = 0
     var breadth: Int = 0
-}
+}*/

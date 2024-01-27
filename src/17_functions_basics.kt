@@ -2,7 +2,7 @@
 /*
 *   FUNCTIONS Basics
 * */
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
 
 
     var sum = add(2, 4)
@@ -12,4 +12,4 @@ fun main(args: Array<String>) {
 
 fun add(a: Int, b: Int): Int {
     return a + b
-}
+}*/
